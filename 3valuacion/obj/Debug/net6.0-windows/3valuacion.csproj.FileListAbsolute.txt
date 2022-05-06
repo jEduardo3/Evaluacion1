@@ -1,0 +1,7 @@
+C:\Users\50257\Desktop\PruebaSD\3valuacion\3valuacion\obj\Debug\net6.0-windows\3valuacion.csproj.AssemblyReference.cache
+C:\Users\50257\Desktop\PruebaSD\3valuacion\3valuacion\obj\Debug\net6.0-windows\_3valuacion.PRESENTACION.FORMULARIO.resources
+C:\Users\50257\Desktop\PruebaSD\3valuacion\3valuacion\obj\Debug\net6.0-windows\3valuacion.csproj.GenerateResource.cache
+C:\Users\50257\Desktop\PruebaSD\3valuacion\3valuacion\obj\Debug\net6.0-windows\3valuacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50257\Desktop\PruebaSD\3valuacion\3valuacion\obj\Debug\net6.0-windows\3valuacion.AssemblyInfoInputs.cache
+C:\Users\50257\Desktop\PruebaSD\3valuacion\3valuacion\obj\Debug\net6.0-windows\3valuacion.AssemblyInfo.cs
+C:\Users\50257\Desktop\PruebaSD\3valuacion\3valuacion\obj\Debug\net6.0-windows\3valuacion.csproj.CoreCompileInputs.cache
